@@ -476,7 +476,7 @@ Mountain View Magic`.split('\n');
 			<h3
 				class="text-2xl sm:text-3xl md:text-4xl italic font-serif bg-gradient-to-r from-[#487DAB] to-[#5A8DBD] bg-clip-text text-transparent w-max mx-auto transition-all duration-500 hover:scale-105 hover:tracking-wide cursor-default"
 			>
-				Silicon Valley Game Jam Paradise
+				Silicon Valley's High School Game Jam
 			</h3>
 			<img
 				src="underline.svg"
@@ -486,7 +486,7 @@ Mountain View Magic`.split('\n');
 			<h4
 				class="text-lg sm:text-xl md:text-2xl opacity-90 mt-2 font-serif bg-gradient-to-r from-[#6B95C4] to-[#487DAB] bg-clip-text text-transparent animate-in-subtitle transition-all duration-300 hover:opacity-100 hover:scale-105 cursor-default"
 			>
-				Where Silicon Valley magic meets game creation in 48 hours of pure innovation
+				Calling all coders, artists, musicians and gamers!
 			</h4>
 			<div class="text-sm sm:text-base md:text-lg font-semibold text-[#44DBC8] mt-2 opacity-90">
 				$15,000+ Prize Pool • Industry Mentors • Cutting-Edge Tech
@@ -508,7 +508,7 @@ Mountain View Magic`.split('\n');
 			<p
 				class="text-xs sm:text-sm text-[#487DAB] text-center max-w-sm sm:max-w-md font-serif italic animate-in-tagline transition-all duration-300 hover:scale-105 hover:text-[#44DBC8] cursor-default px-4"
 			>
-				Where Silicon Valley game tech dreams come to life in 48 hours ✨
+				HackClub's beginner friendly game jam✨
 			</p>
 		</div>
 	</div>
@@ -542,13 +542,14 @@ Mountain View Magic`.split('\n');
 			<h2
 				class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-serif italic bg-gradient-to-r from-[#487DAB] via-[#5A8DBD] to-[#44DBC8] bg-clip-text text-transparent mb-6 md:mb-8"
 			>
-				Game Jam Magic
+				Hackathon Magic: Make Games, Meet Cool People
 			</h2>
 			<p
 				class="text-lg sm:text-xl md:text-2xl text-[#8B4513] font-serif max-w-4xl mx-auto leading-relaxed mb-8 sm:mb-10 md:mb-12 px-4"
 			>
-				Where billion-dollar gaming companies were born. Where Unity was built, where VR was
-				reimagined, where the future of interactive entertainment gets prototyped in just 48 hours.
+				Whether you’re a beginner or experienced in programming-
+		we’ll have workshops, resources and mentors throughout the 24 hours to help you with your project.
+ 
 			</p>
 		</div>
 
@@ -565,11 +566,11 @@ Mountain View Magic`.split('\n');
 					<h3
 						class="text-xl sm:text-2xl font-serif font-bold text-[#487DAB] mb-3 md:mb-4 transition-all duration-300 hover:text-[#44DBC8]"
 					>
-						Silicon Valley Game Tech
+						Proudly Hosting Hackathons Since 2014
 					</h3>
 					<p class="text-[#487DAB] text-base sm:text-lg leading-relaxed">
-						Access to cutting-edge tools from Unity, Unreal, and emerging SV startups. Plus
-						mentorship from engineers at Meta Reality Labs, Apple ARKit, and gaming unicorns.
+						Since HackClub's start in 2014, we have been hosting several beginner-friendly 
+						hackathons a year for high school coders and makers.
 						<span class="font-semibold text-[#44DBC8]">Compete for $15K+ in prizes!</span>
 					</p>
 				</div>
@@ -589,8 +590,8 @@ Mountain View Magic`.split('\n');
 						Valley Innovation Space
 					</h3>
 					<p class="text-[#487DAB] text-base sm:text-lg leading-relaxed">
-						State-of-the-art workspace with VR/AR testing, high-end gaming rigs, and all the Silicon
-						Valley startup energy. Plus unlimited food, the best coffee in tech, and
+						Daydream is a beginner friendly game jam for high schoolers happening in 100+ cities simultaneously where 
+						artists, musicians, and coders get together to build apps and games, and see
 						<span class="font-semibold text-[#44DBC8]"
 							>Silicon Valley's biggest game jam prize pool.</span
 						>
