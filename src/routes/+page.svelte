@@ -670,19 +670,13 @@ Mountain View Magic`.split('\n');
 				</p>
 
 				<p>
-					This isn't just another game jam—it's 48 hours of pure creative chaos in the valley where
-					gaming legends were born. Where mobile gaming was revolutionized at Apple, where VR was
-					reimagined at Meta, where indie hits became billion-dollar franchises. Your Silicon Valley
-					game story starts here, backed by a <span class="font-semibold text-[#44DBC8]"
-						>$15,000+ prize pool.</span
+					Whether you’re a beginner or experienced in programming- we’ll have workshops, resources and mentors throughout the 24 hours to help you with your project.
+ 
 					>
 				</p>
 
 				<p>
-					Amazing mentors from Apple, Google, and game studios you love. Silicon Valley-grade tools
-					and <span class="font-semibold text-[#44DBC8]">$15K+ in epic prizes</span> worth fighting for.
-					A community of creators who think different. This isn't just about building games—it's about
-					discovering what you can create when you have Silicon Valley resources and 48 hours to innovate.
+					We'll make sure your idea comes to life and that you experience the pure hackathon magic
 				</p>
 
 				<p class="text-2xl font-bold text-center text-[#44DBC8]">
@@ -718,8 +712,7 @@ Mountain View Magic`.split('\n');
 			<p
 				class="text-lg sm:text-xl md:text-2xl text-[#8B4513] font-serif max-w-4xl mx-auto leading-relaxed mb-8 sm:mb-10 md:mb-12 px-4"
 			>
-				Join talented young creators in Silicon Valley's most inspiring environment. Where dreams
-				float on innovation clouds and ideas become reality.
+				Join talented young creators in Silicon Valley's High School Game Jam.
 			</p>
 		</div>
 
@@ -731,7 +724,7 @@ Mountain View Magic`.split('\n');
 				Join Silicon Valley's Game Jam
 			</h3>
 			<p class="text-base sm:text-lg md:text-xl text-[#487DAB] mb-6 md:mb-8 max-w-2xl mx-auto px-4">
-				Ready to code like a Silicon Valley legend? Join us for 48 hours of innovation, epic prizes,
+				Ready to code like a Silicon Valley legend? Join us for 14 hours of innovation, epic prizes,
 				and game dev magic in the heart of tech's birthplace.
 			</p>
 			<a
