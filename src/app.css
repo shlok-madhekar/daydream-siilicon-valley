@@ -1,0 +1,93 @@
+@import 'tailwindcss';
+@import '@fontsource/atkinson-hyperlegible';
+
+@font-face {
+	font-family: 'Expensify New Kansas';
+	font-display: swap;
+	src: url('/fonts/serif.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Expensify New Kansas';
+	font-display: swap;
+	src: url('/fonts/serif-italic.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@theme {
+	--font-sans: 'Atkinson Hyperlegible', ui-sans-serif, sans-serif;
+	--font-serif: 'Expensify New Kansas', ui-serif, serif;
+	--color-daydream: #44dbc8;
+	--color-daydream-hover: #3cc2af;
+	--color-dark: #487dab;
+	--color-light: #e8f4fd;
+	--color-neutral: #f8fffe;
+	--color-pink: #e472ab;
+	--color-pink-dark: #a65a80;
+}
+
+@keyframes hover {
+	0% {
+		transform: translateY(0);
+	}
+	100% {
+		transform: translateY(var(--hover));
+	}
+}
+
+.animate-hover {
+	--hover: -0.5rem;
+	animation: hover 2s ease-in-out infinite alternate;
+}
+
+/* Mobile-specific optimizations */
+html {
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+
+body {
+	-webkit-overflow-scrolling: touch;
+	-webkit-tap-highlight-color: transparent;
+	overscroll-behavior-y: none;
+}
+
+/* Improve touch targets on mobile */
+@media (max-width: 768px) {
+	button,
+	a,
+	[role='button'] {
+		min-height: 44px;
+		min-width: 44px;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	/* Prevent zoom on form inputs */
+	input,
+	select,
+	textarea {
+		font-size: 16px !important;
+	}
+
+	/* Optimize animations for mobile performance */
+	* {
+		-webkit-transform: translateZ(0);
+		transform: translateZ(0);
+	}
+}
+
+/* Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+	}
+}

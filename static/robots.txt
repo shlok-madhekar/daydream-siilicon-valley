@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://daydream.hackclub.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Disallow crawling of example pages
+Disallow: /example
+
+# Allow social media crawlers
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
