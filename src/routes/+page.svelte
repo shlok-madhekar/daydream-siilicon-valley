@@ -8,26 +8,26 @@
 
 	// Silicon Valley landmarks and tech companies
 
-	const cities = `Apple Park Gaming
-Unity Technologies
-Meta Reality Labs
-Nvidia GeForce HQ
-Google AI Gaming
-Oculus Studios
-Steam Valve
-Epic Games
-Roblox Corporation
-Discord HQ
-Twitch Interactive
-Adobe Creative Cloud
-Pixar Animation
-Silicon Graphics
-Y Combinator Demo
-Stanford GameDev
-Berkeley VR Lab
-Sand Hill Gaming
-Palo Alto Studios
-Mountain View Magic`.split('\n');
+const cities = `Minecraft
+Fortnite
+Valorant
+League of Legends
+Overwatch
+Apex Legends
+Call of Duty
+Grand Theft Auto V
+The Legend of Zelda
+Super Mario Odyssey
+Elden Ring
+Cyberpunk 2077
+The Witcher 3
+Stardew Valley
+Among Us
+Rocket League
+Halo Infinite
+Animal Crossing
+Destiny 2
+Roblox`.split('\n');
 
 	// Generate ticker text from cities array with user's city inserted
 	let tickerText = '';
